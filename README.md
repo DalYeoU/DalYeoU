@@ -16,24 +16,6 @@ AI를 활용해 개발 과정과 워크플로우를 더 효율적으로 만드�
 
 ---
 
-## Projects
-
-### Spark
-**Unreal Engine 5 · C++ · Single Player**
-
-어둠 속에서 캐릭터의 행동으로 발생하는 스파크를 이용해  
-주변 환경을 순간적으로 파악하며 진행하는 게임 프로젝트입니다.
-
-현재 게임플레이 시스템과 캐릭터 이동, 레벨 구성 등을 개발하고 있습니다.
-
-`Gameplay Programming` `Character Movement` `Game Systems`
-
-[Repository →](여기에_Spark_저장소_URL)
-
-> 현재 개발 진행 중
-
----
-
 ## 관심 분야
 
 ### Gameplay Programming
