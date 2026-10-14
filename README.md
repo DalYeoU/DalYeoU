@@ -1,36 +1,28 @@
 # DalYeoU
 
-### 게임 개발자 · Unreal Engine · C++
+게임과 개발 도구를 만들며 공부하고 있습니다.
+한 언어나 엔진에 머물기보다, 필요한 걸 직접 만들어 보면서 배우는 편이에요.
 
-Unreal Engine과 C++을 중심으로 게임 개발을 공부하고 있습니다.  
-게임플레이 시스템과 개발 도구를 만드는 것에 관심이 있으며,  
-AI를 활용해 개발 과정과 워크플로우를 더 효율적으로 만드는 방법도 탐구하고 있습니다.
+## 요즘 다루는 것
 
----
-
-## Tech Stack
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
----
+다음 프로젝트는 Unity로 기획하고 있어요.
 
-## 관심 분야
+## 관심 있는 것
 
-### Gameplay Programming
-게임플레이 로직과 시스템을 설계하고 구현하는 것에 관심이 있습니다.
+- **게임플레이 시스템** — 플레이어가 직접 체감하는 메커니즘을 설계하고 구현하기
+- **개발 도구** — 반복 작업을 줄여주는 도구와 환경 만들기
+- **AI와 함께 개발하기** — 코드 생성을 넘어 실제 워크플로우에 AI를 녹이는 방법
 
-### Game Systems
-플레이어가 직접 체감하는 게임 메커니즘과 시스템 구조를 공부하고 있습니다.
+## 기록
 
-### Developer Tools
-개발 과정에서 반복되는 작업을 줄이고 더 편리한 개발 환경을 만드는 것에 관심이 있습니다.
+- Devlog: https://devlog.foxtail.kr
+- Portfolio: https://portfolio.foxtail.kr
 
-### AI-assisted Development
-AI 도구를 단순한 코드 생성이 아니라 실제 개발 워크플로우에 효과적으로 활용하는 방법을 탐구하고 있습니다.
-
----
-
-> 게임 자체를 만드는 것뿐만 아니라,  
-> **게임을 더 잘 만들 수 있는 개발 환경과 과정**에도 관심을 가지고 있습니다.
+> 배운 것과 아직 배우는 중인 것들을 기록하고 있어요.
