@@ -11,8 +11,6 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-다음 프로젝트는 Unity로 기획하고 있어요.
-
 ## 관심 있는 것
 
 - **게임플레이 시스템** — 플레이어가 직접 체감하는 메커니즘을 설계하고 구현하기
